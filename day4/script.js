@@ -49,29 +49,3 @@ divClass.appendChild(eleCreate);
 //remove child
 //setTimeout(()=>{divClass.removeChild(eleCreate), 10000});
 // setTimeout(,1000000);
-
-
-//append
-//divClass.appendChild(eleCreate);
-//remove child
-//setTimeout(()=>{divClass.removeChild(eleCreate), 10000});
-// setTimeout(,1000000);
-/*
-const main = document.getElementById("mainText");
-
-// Function to update text with fade-in effect
-function showMessage(message, delay) {
-  setTimeout(() => {
-    main.classList.remove("show");
-    setTimeout(() => {
-      main.innerText = message;
-      main.classList.add("show");
-    }, 300); // Small delay before showing new text
-  }, delay);
-}
-
-// Sequence of messages
-showMessage("Welcome", 5000);   // After 5 seconds
-showMessage("Saurabhi", 7000);             // After 7 seconds
-showMessage("EIE", 9000);                  // After 9 seconds
-showMessage("8.21", 11000);                // After 11 seconds*/
